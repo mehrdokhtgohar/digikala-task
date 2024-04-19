@@ -1,0 +1,19 @@
+@font-face {
+  font-family: 'Vazir-Medium-FD';
+  src: url('./public/fonts/Vazir-Medium-FD.ttf');
+}
+
+@font-face {
+  font-family: 'Vazir-Bold-FD';
+  src: url('./public/fonts/Vazir-Bold-FD.ttf');
+}
+
+@font-face {
+  font-family: 'Axiforma-Bold.ttf';
+  src: url('./public/fonts/Axiforma-Bold.ttf');
+}
+
+@font-face {
+  font-family: 'Axiforma-Medium.ttf';
+  src: url('./public/fonts/Axiforma-Medium.ttf');
+}
