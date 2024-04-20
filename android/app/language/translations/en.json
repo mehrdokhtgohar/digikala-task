@@ -1,0 +1,24 @@
+{
+  "language": "English",
+  "screens": {
+    "MarketList": {
+      "listTitle": "Currencies",
+      "placeholder": "Search...",
+      "sortTitle": "Sort By :",
+      "nameSort": "Name",
+      "priceSort": "Price",
+      "volumeSort": "Volume",
+      "priceTitle": ": Price (IRR)",
+      "volumeTitle": ": Volume"
+    },
+    "MarketDetail": {
+      "title": "Details",
+      "salesTitle": "Buy and sell {{coinName}} at the lowest price + hourly price {{coinName}}",
+      "priceTitle": "Price (IRR)",
+      "changeTitle": "Price Changes"
+    }
+  },
+  "components": {
+    "ui": {"toggleTheme": "Day/Night"}
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/Axiforma-Bold.ttf",
+      "sha1": "5e1b228414e2eea9b3760e42e41a1e5093dbcee0"
+    },
+    {
+      "path": "assets/fonts/Axiforma-Medium.ttf",
+      "sha1": "99f123acaa76e20aaba5c97973533f79e3627366"
+    },
+    {
+      "path": "assets/fonts/Vazir-Bold-FD.ttf",
+      "sha1": "cc3fb59391a3fa5933d05e0135bf80e3c0ed76d2"
+    },
+    {
+      "path": "assets/fonts/Vazir-Medium-FD.ttf",
+      "sha1": "f070423c4b85e5e73b5abac7d7d87b50e4b7aab6"
+    }
+  ]
+}

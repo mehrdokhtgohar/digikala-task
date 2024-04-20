@@ -8,7 +8,6 @@ export enum Theme {
 export type ThemeState = `${Theme}` | 'systemPreferences' | undefined;
 
 export interface ThemeContextType {
-  theme: `${Theme}`;
-  tokens: Tokens;
-  setTheme: (newTheme: ThemeState) => void;
+  theme: Tokens;
+  toggleTheme: () => void;
 }
