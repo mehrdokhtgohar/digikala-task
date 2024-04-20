@@ -6,10 +6,6 @@ import {Theme} from './tokenTypes';
 export const useTheme = () => {
   const {theme, toggleTheme} = useContext(ThemeContext);
 
-  if (!theme || !toggleTheme) {
-    throw new Error('useTheme must be used within a ThemeProvider');
-  }
-
   return {theme, toggleTheme};
 };
 

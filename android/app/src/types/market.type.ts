@@ -5,15 +5,15 @@ export interface MarketType {
   base_precision: number;
   buy: number;
   crypto_box: number;
-  financial: {
+  financial?: {
     last24h: {
-      base_volume: number;
-      change_percent: number;
-      close: number;
-      highest: number;
-      lowest: number;
-      open: number;
-      quote_volume: number;
+      base_volume?: number;
+      change_percent?: number;
+      close?: number;
+      highest?: number;
+      lowest?: number;
+      open?: number;
+      quote_volume?: number;
     };
   };
   icon: string;
