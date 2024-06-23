@@ -1,4 +1,4 @@
-package com.ramzinexcodechallenge
+package com.digikalaCodeChallenge
 
 import android.app.Application
 import com.facebook.react.PackageList
