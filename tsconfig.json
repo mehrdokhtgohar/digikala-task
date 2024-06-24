@@ -1,3 +1,12 @@
 {
+  "compilerOptions": {
+    "baseUrl": "./src",
+    "paths": {
+      "@api/*": ["fetch-api/api/*"],
+      "@components/*": ["components/*"],
+      "@hooks/*": ["fetch-api/hooks/*"],
+      "@customTypes/*": ["fetch-api/types/*"]
+    }
+  },
   "extends": "@react-native/typescript-config/tsconfig.json"
 }
