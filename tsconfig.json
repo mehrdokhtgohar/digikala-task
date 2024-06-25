@@ -4,8 +4,12 @@
     "paths": {
       "@api/*": ["fetch-api/api/*"],
       "@components/*": ["components/*"],
+      "@screens/*": ["screens/*"],
       "@hooks/*": ["fetch-api/hooks/*"],
-      "@customTypes/*": ["fetch-api/types/*"]
+      "@customTypes/*": ["fetch-api/types/*"],
+      "@navigation/*": ["navigation/*"],
+      "@locales/*": ["locales/*"],
+      "@theme/*": ["theme/*"]
     }
   },
   "extends": "@react-native/typescript-config/tsconfig.json"
