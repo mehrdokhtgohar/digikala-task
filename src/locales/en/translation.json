@@ -10,5 +10,8 @@
   "DETAIL": {
     "EMPTY_LIST": "Nothing to show! Please select a post first.",
     "ERROR": "Error fetching post details!"
+  },
+  "LIST": {
+    "ERROR": "Error: "
   }
 }
