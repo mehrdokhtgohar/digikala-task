@@ -1,0 +1,14 @@
+{
+  "TABS": {
+    "POSTS": "Posts",
+    "DETAIL": "Detail"
+  },
+  "HEADERS": {
+    "POSTS": "Posts",
+    "DETAIL": "Detail"
+  },
+  "DETAIL": {
+    "EMPTY_LIST": "Nothing to show! Please select a post first.",
+    "ERROR": "Error fetching post details!"
+  }
+}
